@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin-top: 10%;
+}
+form,
+div,
+h1,
+h2 {
+  text-align: center;
+
+  font-weight: bold;
+}
+div {
+  margin: auto;
+  width: 30%;
+  background-color: rgb(224, 220, 220);
+  border-radius: 5px;
+  padding: 5px;
+}
+form {
+  margin: 20px auto;
+}
